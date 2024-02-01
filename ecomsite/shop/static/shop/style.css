@@ -1,0 +1,11 @@
+.card-text{
+    color:green;
+    font-weight: 800;
+}
+.card-title{
+    color:black;
+    font-weight: 900;
+}
+#img{
+    height: 200px !important;
+}
